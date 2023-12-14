@@ -1,5 +1,7 @@
 ## UK Traffic Accidents  Analysis
 
+* Link to DOWNLOAD Power BI FILE = https://ivardavageorge.wixsite.com/gioivanalyst
+
 **Overview**
 
 This repository contains an analysis of traffic accidents in the United Kingdom. The dataset encompasses detailed information about road accidents, including their severity, location, date, time, weather conditions, road surface, and other relevant factors. The analysis aims to gain insights into traffic accident trends, contributing factors, and potential measures for improving road safety.
