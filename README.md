@@ -1,6 +1,6 @@
 ## UK Traffic Accidents  Analysis
 
-* Link to DOWNLOAD Power BI FILE = https://ivardavageorge.wixsite.com/gioivanalyst
+
 
 **Overview**
 
